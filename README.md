@@ -1,14 +1,16 @@
-Hi, I'm Diego, a Software Developer from São Bernardo do Campo, São Paulo,
-Brazil. 🇧🇷
+# Data Structures and Algorithms
 
-Professionally, I have nearly a decade of experience with JavaScript,
-[Node.js][nodejs], and web development in general. While I currently enjoy
-working more with back-end technologies, I also have front-end experience,
-particularly with [React][react].
+Data structures and algorithms solutions in multiple programming languages.
 
-As an open-source enthusiast, I have made some small contributions to ReactJS
-in the past, particularly by translating the official documentation, as well as
-to other smaller projects.
+#### Links
 
-[nodejs]: https://nodejs.org/en
-[react]: https://react.dev
+- [LeetCode Profile][leetcode]
+- [The Last Algorithms Course You'll Need][femasters]
+
+#### Contributing
+
+If you find something wrong here or wants to contribute with a suggestion or
+some code, feel free to fork and open a PR.
+
+[femasters]: https://frontendmasters.com/courses/algorithms
+[leetcode]: https://leetcode.com/u/ifdiego
