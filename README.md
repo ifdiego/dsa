@@ -1,6 +1,6 @@
-# Data Structures and Algorithms
+# Algorithms and Data Structures
 
-Data structures and algorithms solutions in multiple programming languages.
+Algorithms and data structures solutions in multiple programming languages.
 
 #### Links
 
